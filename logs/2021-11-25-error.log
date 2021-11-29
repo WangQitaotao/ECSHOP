@@ -1,0 +1,6 @@
+2021-11-25 15:45:27 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-25 19:09:07 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-25 19:25:21 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: chrome not reachable
+  (Session info: chrome=95.0.4638.54)
+

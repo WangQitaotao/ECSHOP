@@ -1,0 +1,1062 @@
+2021-11-25 12:31:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 12:31:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 12:31:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:31:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 12:31:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 12:31:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 12:31:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 12:31:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 12:31:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 12:31:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112589046
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 12:31:25 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112589046
+2021-11-25 12:31:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112589046
+2021-11-25 12:31:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 12:31:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112589046
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 12:31:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 12:31:31 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 12:31:31 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 12:31:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 12:31:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 12:31:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 12:31:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 12:31:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112589046']/../..//font[@class='f6']/a
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112589046']/../..//font[@class='f6']/a")
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112589046']
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112589046']")
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:31:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 12:47:11 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:47:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 12:47:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 12:47:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 12:47:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 12:47:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 12:47:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 12:47:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112556416
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112556416
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112556416
+2021-11-25 12:47:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 12:47:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112556416
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 12:47:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 12:47:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 12:47:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 12:47:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 12:47:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 12:47:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 12:47:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 12:47:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112556416']/../..//font[@class='f6']/a
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112556416']/../..//font[@class='f6']/a")
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112556416']
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112556416']")
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:47:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 12:49:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 12:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 12:50:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 12:50:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 12:50:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 12:50:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 12:50:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 12:50:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112565320
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112565320
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112565320
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:50:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112565320
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 12:50:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 12:50:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 12:50:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 12:50:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 12:50:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 12:50:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 12:50:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 12:50:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112565320']/../..//font[@class='f6']/a
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112565320']/../..//font[@class='f6']/a")
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 12:50:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112565320']
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112565320']")
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:50:30 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 12:52:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:52:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 12:52:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 12:52:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 12:52:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 12:52:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 12:52:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 12:52:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112502050
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112502050
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112502050
+2021-11-25 12:52:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:52:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112502050
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 12:52:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 12:52:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 12:52:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 12:52:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 12:52:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 12:52:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 12:52:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 12:53:00 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112502050']/../..//font[@class='f6']/a
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112502050']/../..//font[@class='f6']/a")
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 12:53:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112502050']
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112502050']")
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 12:53:02 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 12:59:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 12:59:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 12:59:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 12:59:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 12:59:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 13:00:08 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 13:00:08 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112598723
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112598723
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112598723
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 13:00:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112598723
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 13:00:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 13:00:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 13:00:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 13:00:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 13:00:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 13:00:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 13:00:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 13:00:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 13:00:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112598723']/../..//font[@class='f6']/a
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112598723']/../..//font[@class='f6']/a")
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 13:00:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112598723']
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112598723']")
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 13:00:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 13:08:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 13:08:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 13:08:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 13:08:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 13:08:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 13:08:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 13:08:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 13:08:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 13:08:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112511370
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112511370
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\13
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112511370
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 13:08:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112511370
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 13:08:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 13:08:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 13:08:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 13:08:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 13:08:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 13:08:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 13:08:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 13:08:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 13:08:47 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 13:08:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112511370']/../..//font[@class='f6']/a
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112511370']/../..//font[@class='f6']/a")
+2021-11-25 13:08:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112511370']
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112511370']")
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 13:08:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 15:24:11 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 15:24:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 15:24:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 15:24:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 15:24:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112530793
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 15:24:15 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112530793
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\15
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112530793
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:24:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112530793
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 15:24:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 15:24:18 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 15:24:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 15:24:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 15:24:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 15:24:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 15:24:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 15:24:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 15:24:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 15:24:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 15:24:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 15:24:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 15:24:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 15:24:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 15:24:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 15:24:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 15:24:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 15:24:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 15:24:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112530793']/../..//font[@class='f6']/a
+2021-11-25 15:24:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112530793']/../..//font[@class='f6']/a")
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112530793']
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112530793']")
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：收获确认截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\15
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 15:24:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 15:44:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 15:44:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 15:44:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 15:44:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 15:44:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 15:44:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 15:44:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 15:44:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 15:44:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 15:44:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 15:44:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 15:44:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 15:45:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 15:45:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 15:45:27 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-25 15:45:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 15:45:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 15:45:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 15:45:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:45:43 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 15:45:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 15:45:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 15:45:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 15:45:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 15:45:44 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 15:45:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 15:45:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 15:45:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 15:45:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 15:45:46 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 15:45:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 15:45:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 15:45:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 15:45:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112594327
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112594327
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\15
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112594327
+2021-11-25 15:46:10 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 15:46:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 15:46:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 15:46:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 15:46:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 15:46:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 15:46:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112594327
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 15:46:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 15:46:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 15:46:31 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 15:46:31 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 15:46:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 15:46:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 15:46:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 15:46:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 15:46:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 15:46:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 15:46:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 15:46:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 15:46:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 15:46:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112594327']/../..//font[@class='f6']/a
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112594327']/../..//font[@class='f6']/a")
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112594327']
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112594327']")
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：收获确认截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\15
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 15:46:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 19:09:04 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 19:09:04 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:09:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 19:09:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 在{}页面
+2021-11-25 19:09:07 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-25 19:21:03 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 19:21:03 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:21:05 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 19:25:05 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 19:25:05 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:25:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 19:25:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 19:25:09 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 19:25:11 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 19:25:11 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:25:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 19:25:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 19:25:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 19:25:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 19:25:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 19:25:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 19:25:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 19:25:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 19:25:21 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: chrome not reachable
+  (Session info: chrome=95.0.4638.54)
+
+2021-11-25 19:49:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 19:49:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:49:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 19:49:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 19:49:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 19:49:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 19:49:57 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 19:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 19:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 19:49:58 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 19:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 19:49:59 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 19:50:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 19:50:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 19:50:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 19:50:01 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 19:50:06 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 19:50:06 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 19:50:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 19:50:07 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112566508
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112566508
+2021-11-25 19:50:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 20:02:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 20:02:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:02:56 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 20:02:56 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 20:03:12 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 20:03:13 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112548952
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 20:03:14 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112548952
+2021-11-25 20:03:15 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-03
+2021-11-25 20:03:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112548952
+2021-11-25 20:03:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:03:15 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112548952
+2021-11-25 20:03:16 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 20:03:17 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 20:03:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 20:03:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 20:03:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 20:03:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 20:03:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 20:03:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 20:03:27 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112548952']/../..//font[@class='f6']/a
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112548952']/../..//font[@class='f6']/a")
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112548952']
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112548952']")
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 20:03:28 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 20:03:29 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：收获确认截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-03
+2021-11-25 20:03:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 20:03:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:03:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 20:18:19 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 20:18:19 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:18:20 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 20:18:21 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 20:18:22 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112532607
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 20:18:23 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112532607
+2021-11-25 20:18:24 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-18
+2021-11-25 20:18:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112532607
+2021-11-25 20:18:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:18:24 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112532607
+2021-11-25 20:18:25 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 20:18:26 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 20:18:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 20:18:29 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 20:18:33 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 20:18:33 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 20:18:33 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 20:18:33 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 20:18:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112532607']/../..//font[@class='f6']/a
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112532607']/../..//font[@class='f6']/a")
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 20:18:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112532607']
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112532607']")
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：收获确认截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-18
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:18:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------
+2021-11-25 20:50:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-25 20:50:34 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:50:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115
+2021-11-25 20:50:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='登录']
+2021-11-25 20:50:35 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='登录']")
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：submit
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'submit')
+2021-11-25 20:50:36 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/index.php
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='keywords']
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：葫芦娃
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@name='imageField']
+2021-11-25 20:50:37 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@name='imageField']")
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='goodsItem']//a[text()='葫芦娃']
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='goodsItem']//a[text()='葫芦娃']")
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/goumai2.gif']")
+2021-11-25 20:50:38 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/flow.php?step=cart
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@alt='checkout']
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@alt='checkout']")
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']
+2021-11-25 20:50:39 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@src='themes/ecmoban_meilishuo/images/bnt_subOrder.gif']")
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//font[@style='color:red']
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：2021112503264
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//div[@class='flowBox']//h6
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112503264
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：提交成功截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-50
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:成功，实际结果:感谢您在本店购物！您的订单已提交成功，请记住您的订单号: 2021112503264
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/admin/index.php
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：admin
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：css selector，定位元素的属性：[value='进入管理中心']
+2021-11-25 20:50:40 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('css selector', "[value='进入管理中心']")
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单查询']
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单查询']")
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：order_sn
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：2021112503264
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：query
+2021-11-25 20:50:41 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('name', 'query')
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@id='order_0']
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@id='order_0']")
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='付款']
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='付款']")
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：action_note
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：已付款
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value=' 确定 ']
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value=' 确定 ']")
+2021-11-25 20:50:42 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='配货']
+2021-11-25 20:50:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='配货']")
+2021-11-25 20:50:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='生成发货单']
+2021-11-25 20:50:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='生成发货单']")
+2021-11-25 20:50:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='确认生成发货单']
+2021-11-25 20:50:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='确认生成发货单']")
+2021-11-25 20:50:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='去发货']
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='去发货']")
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='查看']
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='查看']")
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//input[@value='发货']
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//input[@value='发货']")
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：link text，定位元素的属性：我的账户
+2021-11-25 20:50:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('link text', '我的账户')
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.4.115/user.php
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//img[@src='themes/ecmoban_meilishuo/images/u3.gif']
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//img[@src='themes/ecmoban_meilishuo/images/u3.gif']")
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112503264']/../..//font[@class='f6']/a
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112503264']/../..//font[@class='f6']/a")
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//li[@key='04_order']
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//li[@key='04_order']")
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='订单列表']
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@target='main-frame'][text()='订单列表']")
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='2021112503264']
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='2021112503264']")
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//*[text()='买家']//..//..//td[5]//div
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-25 20:50:53 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：收货确认
+2021-11-25 20:50:54 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：收获确认截图.png ,保存路径：G:\Python_code\UI_Automation_v2\photos\2021-11-25\20-50
+2021-11-25 20:50:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:收货确认，实际结果:收货确认
+2021-11-25 20:50:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-25 20:50:54 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------

@@ -1,0 +1,19 @@
+
+# yaml文件前面加个 - 就是list类型，不加就是 dict 类型
+
+
+front_end:
+  front_name: 前端测试相关数据
+  front_url: http://192.168.4.115
+  front_un: wqt123456
+  front_pw: wqt123456
+
+
+after_end:
+  after_name: 后端相关测试数据
+  after_url: http://192.168.4.115/admin
+  after_un: admin
+  after_pw: wqt123456
+
+
+

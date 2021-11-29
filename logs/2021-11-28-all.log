@@ -1,0 +1,49 @@
+2021-11-28 09:42:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试开始  ----------
+2021-11-28 09:42:45 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 浏览器最大化
+2021-11-28 09:42:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 读取url：http://192.168.101.7
+2021-11-28 09:42:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//a[text()='注册']
+2021-11-28 09:42:48 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[text()='注册']")
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：username
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：chao39
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：id，定位元素的属性：email
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：dongfang@example.com
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：password
+2021-11-28 09:42:49 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：confirm_password
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：wqt123456
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：extend_field1
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：gaoyong@example.org
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：extend_field2
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：59958437
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：extend_field3
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：18972431932
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：extend_field4
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：15777652055
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：extend_field5
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：13101320098
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：sel_question
+2021-11-28 09:42:50 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：name，定位元素的属性：passwd_answer
+2021-11-28 09:42:51 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 输入的值：草莓
+2021-11-28 09:42:52 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：09-42-52前端注册界面_注册信息详情截图.png ,保存路径：E:\UI_v2\photos\2021\11-28\09-42-52前端注册界面_注册信息详情截图.png
+2021-11-28 09:42:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：class name，定位元素的属性：us_Submit_reg
+2021-11-28 09:42:52 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 点击元素：('class name', 'us_Submit_reg')
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 定位元素的方法：xpath，定位元素的属性：//p[text()='用户名 chao39 注册成功']
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 元素定位成功
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 获取界面的信息：用户名 chao39 注册成功
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:142] - INFO - [日志信息]: 截图成功：09-42-53前端注册界面_注册成功截图.png ,保存路径：E:\UI_v2\photos\2021\11-28\09-42-53前端注册界面_注册成功截图.png
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 断言检查点--预期结果:注册成功，实际结果:用户名 chao39 注册成功
+2021-11-28 09:42:53 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: 【测试结果：断言成功】
+2021-11-28 09:42:55 - logger_handler_v3.py - [line:144] - DEBUG - [日志信息]: ----------  测试结束  ----------

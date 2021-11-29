@@ -1,0 +1,21 @@
+2021-11-26 11:40:08 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-26 12:28:49 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 截图失败：前端注册用户_提交成功截图 ,报错提示：None
+2021-11-26 14:36:02 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-26 14:39:59 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-26 17:38:31 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-26 17:41:47 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: 
+
+2021-11-26 19:56:36 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-26 19:58:53 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=95.0.4638.54)
+
+2021-11-26 20:03:08 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-26 20:05:32 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-26 20:06:24 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败：tuple index out of range
+2021-11-26 22:33:59 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 代码报错信息: Message: invalid argument: File not found : G:\\suoluetu\\aa.png
+  (Session info: chrome=95.0.4638.54)
+

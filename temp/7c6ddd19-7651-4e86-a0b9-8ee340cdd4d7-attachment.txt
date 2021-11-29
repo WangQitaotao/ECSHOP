@@ -1,0 +1,55 @@
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/refresh {}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/refresh HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element {"using": "css selector", "value": "[id=\"menu-frame\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element HTTP/1.1" 200 88
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/frame {"id": {"ELEMENT": "fd8c8254-ec4c-478e-bab1-c8ca9ae2331e", "element-6066-11e4-a52e-4f735466cecf": "fd8c8254-ec4c-478e-bab1-c8ca9ae2331e"}}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/frame HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 定位元素的方法：xpath，定位元素的属性：//li[@key='02_cat_and_goods']
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element {"using": "xpath", "value": "//li[@key='02_cat_and_goods']"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element HTTP/1.1" 200 88
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 元素定位成功
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element/4bdcbc36-6e5c-4727-9b42-b306567d298d/click {"id": "4bdcbc36-6e5c-4727-9b42-b306567d298d"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element/4bdcbc36-6e5c-4727-9b42-b306567d298d/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 点击元素：('xpath', "//li[@key='02_cat_and_goods']")
+DEBUG    root:logger_handler_v3.py:144 定位元素的方法：xpath，定位元素的属性：//a[@target='main-frame'][text()='商品列表']
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element {"using": "xpath", "value": "//a[@target='main-frame'][text()='\u5546\u54c1\u5217\u8868']"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element HTTP/1.1" 200 88
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 元素定位成功
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element/327e6507-3a51-45e1-ad25-d96796104038/click {"id": "327e6507-3a51-45e1-ad25-d96796104038"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element/327e6507-3a51-45e1-ad25-d96796104038/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 点击元素：('xpath', "//a[@target='main-frame'][text()='商品列表']")
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/frame {"id": null}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/frame HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element {"using": "css selector", "value": "[id=\"main-frame\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element HTTP/1.1" 200 88
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/frame {"id": {"ELEMENT": "9d38195b-053a-4581-a496-54d880e5fb11", "element-6066-11e4-a52e-4f735466cecf": "9d38195b-053a-4581-a496-54d880e5fb11"}}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/frame HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 定位元素的方法：xpath，定位元素的属性：//span[text()='黄桃8527']//..//..//a[@title='回收站']
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element {"using": "xpath", "value": "//span[text()='\u9ec4\u68438527']//..//..//a[@title='\u56de\u6536\u7ad9']"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element HTTP/1.1" 200 88
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 元素定位成功
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/element/61a91d78-f063-4417-b53b-7d8365f1c447/click {"id": "61a91d78-f063-4417-b53b-7d8365f1c447"}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/element/61a91d78-f063-4417-b53b-7d8365f1c447/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 点击元素：('xpath', "//span[text()='黄桃8527']//..//..//a[@title='回收站']")
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/alert/text {}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "GET /session/27a8890d9afa4d92850f400c1af3e616/alert/text HTTP/1.1" 200 57
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/alert/accept {}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "POST /session/27a8890d9afa4d92850f400c1af3e616/alert/accept HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:63593/session/27a8890d9afa4d92850f400c1af3e616/window {}
+DEBUG    urllib3.connectionpool:connectionpool.py:461 http://127.0.0.1:63593 "DELETE /session/27a8890d9afa4d92850f400c1af3e616/window HTTP/1.1" 200 12
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    root:logger_handler_v3.py:144 ----------测试结束----------

@@ -1,0 +1,27 @@
+2021-11-24 15:38:38 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 15:40:01 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:34:18 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:34:18 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 代码报错信息: 'NoneType' object has no attribute 'clear'
+2021-11-24 17:34:28 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:37:38 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:37:38 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 代码报错信息: 'NoneType' object has no attribute 'clear'
+2021-11-24 17:37:38 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Alert Text: 请您填写备注！
+Message: unexpected alert open: {Alert text : 请您填写备注！}
+  (Session info: chrome=95.0.4638.54)
+
+2021-11-24 17:40:00 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:41:09 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 17:49:21 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 18:44:09 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
+2021-11-24 19:23:37 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败find_element() takes from 1 to 3 positional arguments but 4 were given
+2021-11-24 20:28:07 - logger_handler_v3.py - [line:149] - ERROR - [日志信息]: 元素定位失败Message: 
+
